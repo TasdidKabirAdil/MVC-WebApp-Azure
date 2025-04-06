@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#3\\mvc-webapp-azure\\mvc-webapp-azure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|solutionrelative:mvc-webapp-azure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#3\\mvc-webapp-azure\\mvc-webapp-azure\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|solutionrelative:mvc-webapp-azure\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#3\\mvc-webapp-azure\\mvc-webapp-azure\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|solutionrelative:mvc-webapp-azure\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#3\\mvc-webapp-azure\\mvc-webapp-azure\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|solutionrelative:mvc-webapp-azure\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Migrations\\20250406021415_Rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC-WebApp-Azure\\Migrations\\20250406021415_Rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#3\\mvc-webapp-azure\\mvc-webapp-azure\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|solutionrelative:mvc-webapp-azure\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#3\\mvc-webapp-azure\\mvc-webapp-azure\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|solutionrelative:mvc-webapp-azure\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#3\\mvc-webapp-azure\\mvc-webapp-azure\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|solutionrelative:mvc-webapp-azure\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#3\\mvc-webapp-azure\\mvc-webapp-azure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|solutionrelative:mvc-webapp-azure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#3\\mvc-webapp-azure\\mvc-webapp-azure\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|solutionrelative:mvc-webapp-azure\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#3\\mvc-webapp-azure\\mvc-webapp-azure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|solutionrelative:mvc-webapp-azure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#3\\mvc-webapp-azure\\mvc-webapp-azure\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|solutionrelative:mvc-webapp-azure\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#3\\mvc-webapp-azure\\mvc-webapp-azure\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B7AA25-F5B8-40D4-AE2F-3F6E9FED8C9D}|MVC-WebApp-Azure\\MVC-WebApp-Azure.csproj|solutionrelative:mvc-webapp-azure\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +54,151 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC-WebApp-Azure\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Views\\Movies\\Details.cshtml*",
+              "RelativeToolTip": "MVC-WebApp-Azure\\Views\\Movies\\Details.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T02:23:49.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC-WebApp-Azure\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "MVC-WebApp-Azure\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T02:22:56.291Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\appsettings.json",
-              "RelativeDocumentMoniker": "MVC-WebApp-Azure\\appsettings.json",
-              "ToolTip": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\appsettings.json",
-              "RelativeToolTip": "MVC-WebApp-Azure\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-11T20:21:14.42Z",
+              "DocumentIndex": 3,
+              "Title": "20250406021415_Rating.cs",
+              "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Migrations\\20250406021415_Rating.cs",
+              "RelativeDocumentMoniker": "MVC-WebApp-Azure\\Migrations\\20250406021415_Rating.cs",
+              "ToolTip": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Migrations\\20250406021415_Rating.cs",
+              "RelativeToolTip": "MVC-WebApp-Azure\\Migrations\\20250406021415_Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T02:14:16.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "MVC-WebApp-Azure\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Models\\SeedData.cs",
+              "RelativeToolTip": "MVC-WebApp-Azure\\Models\\SeedData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T02:13:07.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC-WebApp-Azure\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "MVC-WebApp-Azure\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T02:12:11.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieGenreViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Models\\MovieGenreViewModel.cs",
+              "RelativeDocumentMoniker": "MVC-WebApp-Azure\\Models\\MovieGenreViewModel.cs",
+              "ToolTip": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Models\\MovieGenreViewModel.cs",
+              "RelativeToolTip": "MVC-WebApp-Azure\\Models\\MovieGenreViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T02:00:30.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC-WebApp-Azure\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "MVC-WebApp-Azure\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T01:56:40.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MVC-WebApp-Azure\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MVC-WebApp-Azure\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAE8AAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T01:37:42.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MVC-WebApp-Azure\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Models\\Movie.cs",
+              "RelativeToolTip": "MVC-WebApp-Azure\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T01:06:15.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Program.cs",
               "RelativeDocumentMoniker": "MVC-WebApp-Azure\\Program.cs",
               "ToolTip": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Program.cs",
               "RelativeToolTip": "MVC-WebApp-Azure\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T20:19:55.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC-WebApp-Azure\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MVC-WebApp-Azure\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T20:19:52.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVC-WebApp-Azure\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#3\\MVC-WebApp-Azure\\MVC-WebApp-Azure\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MVC-WebApp-Azure\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T20:19:46.24Z",
               "EditorCaption": ""
